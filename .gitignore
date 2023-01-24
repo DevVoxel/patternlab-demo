@@ -1,0 +1,12 @@
+# NodeJS
+node_modules
+npm-debug.log
+
+# OSX
+.DS_Store
+
+# VSCode
+.vscode
+
+# Environment Variables
+.env
